@@ -92,3 +92,28 @@ https://github.com/usuario/repositorio
 
 ---
 
+## 👥 Integrantes do Grupo
+
+| Nome                    | RM      |
+|-------------------------|---------|
+| João Pedro Palermo      | 562077  |
+
+(Adicionar demais integrantes se houver)
+
+---
+
+## 📚 Tecnologias Utilizadas
+
+### **Frontend**
+- React (Vite)
+- Tailwind CSS 4
+- JavaScript ES6+
+
+### **Backend**
+- Node.js
+- Express
+- CORS
+- JSON (como banco de dados local)
+
+---
+
