@@ -117,3 +117,32 @@ https://github.com/usuario/repositorio
 
 ---
 
+## 📁 Estrutura do Projeto
+
+```
+GSweb/
+│
+├── backend/
+│   ├── data/profiles.json
+│   ├── server.js
+│   └── package.json
+│
+└── frontend/
+    ├── src/
+    │   ├── components/
+    │   ├── data/
+    │   ├── App.jsx
+    │   ├── main.jsx
+    │   └── index.css
+    ├── package.json
+    └── vite.config.js
+```
+
+---
+
+## 📌 Notas Finais
+
+- As imagens dos perfis são servidas pela API pública **randomuser.me**, garantindo disponibilidade e estabilidade.  
+- O projeto foi desenvolvido com foco em responsividade, boa experiência de usuário e visual moderno utilizando Tailwind CSS 4.
+
+---
