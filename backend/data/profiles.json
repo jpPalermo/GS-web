@@ -1,895 +1,1549 @@
 [
   {
     "id": 1,
-    "nome": "Felipe Oliveira",
-    "foto": "./images/homem1.jpg",
-    "cargo": "Consultor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Salvador/BA",
-    "area": "Engenharia",
-    "habilidadesTecnicas": [
-      "SQL",
-      "React",
-      "Docker"
-    ],
-    "softSkills": [
-      "Pensamento crítico",
-      "Trabalho em equipe",
-      "Resiliência"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Sustentabilidade",
-      "Cibersegurança"
-    ]
-  },
-  {
-    "id": 2,
-    "nome": "Patrícia Silva",
-    "foto": "./images/mulher2.jpg",
-    "cargo": "Engenheiro",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Rio de Janeiro/RJ",
+    "nome": "Lucas Silva",
+    "foto": "https://randomuser.me/api/portraits/men/0.jpg",
+    "cargo": "Desenvolvedor Front-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "São Paulo/SP",
     "area": "Tecnologia",
     "habilidadesTecnicas": [
+      "Python",
       "JavaScript",
-      "Node.js",
       "React"
     ],
     "softSkills": [
+      "Comunicação",
       "Trabalho em equipe",
-      "Liderança",
-      "Pensamento crítico"
+      "Liderança"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa A",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
       "IA",
+      "Educação"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Mariana Souza",
+    "foto": "https://randomuser.me/api/portraits/women/1.jpg",
+    "cargo": "Desenvolvedor Back-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa B",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
       "Sustentabilidade"
     ]
   },
   {
     "id": 3,
-    "nome": "Mateus Almeida",
-    "foto": "./images/homem3.jpg",
-    "cargo": "Analista",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Rio de Janeiro/RJ",
-    "area": "Engenharia",
-    "habilidadesTecnicas": [
-      "Python",
-      "Figma",
-      "SQL"
-    ],
-    "softSkills": [
-      "Trabalho em equipe",
-      "Resiliência",
-      "Liderança"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "IA",
-      "Sustentabilidade"
-    ]
-  },
-  {
-    "id": 4,
-    "nome": "Mariana Martins",
-    "foto": "./images/mulher4.jpg",
-    "cargo": "Engenheiro",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Rio de Janeiro/RJ",
-    "area": "Engenharia",
-    "habilidadesTecnicas": [
-      "Java",
-      "Python",
-      "Docker"
-    ],
-    "softSkills": [
-      "Liderança",
-      "Criatividade",
-      "Comunicação"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Neurociência",
-      "IA"
-    ]
-  },
-  {
-    "id": 5,
-    "nome": "Mateus Martins",
-    "foto": "./images/homem5.jpg",
-    "cargo": "Designer",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Salvador/BA",
-    "area": "Engenharia",
+    "nome": "Mateus Oliveira",
+    "foto": "https://randomuser.me/api/portraits/men/2.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
     "habilidadesTecnicas": [
       "React",
-      "Java",
+      "Node.js",
       "SQL"
     ],
     "softSkills": [
       "Liderança",
-      "Trabalho em equipe",
-      "Resiliência"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Neurociência",
-      "Sustentabilidade"
-    ]
-  },
-  {
-    "id": 6,
-    "nome": "Beatriz Silva",
-    "foto": "./images/mulher6.jpg",
-    "cargo": "Designer",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Belo Horizonte/MG",
-    "area": "Tecnologia",
-    "habilidadesTecnicas": [
-      "AWS",
-      "Node.js",
-      "Python"
-    ],
-    "softSkills": [
-      "Pensamento crítico",
-      "Criatividade",
-      "Liderança"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Sustentabilidade",
-      "Neurociência"
-    ]
-  },
-  {
-    "id": 7,
-    "nome": "Gabriel Ribeiro",
-    "foto": "./images/homem7.jpg",
-    "cargo": "Desenvolvedor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Belo Horizonte/MG",
-    "area": "Engenharia",
-    "habilidadesTecnicas": [
-      "JavaScript",
-      "Node.js",
-      "Docker"
-    ],
-    "softSkills": [
-      "Criatividade",
-      "Pensamento crítico",
-      "Resiliência"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Educação",
-      "Cibersegurança"
-    ]
-  },
-  {
-    "id": 8,
-    "nome": "Mariana Lima",
-    "foto": "./images/mulher8.jpg",
-    "cargo": "Designer",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Porto Alegre/RS",
-    "area": "Educação",
-    "habilidadesTecnicas": [
-      "Node.js",
-      "Python",
-      "Figma"
-    ],
-    "softSkills": [
-      "Trabalho em equipe",
-      "Criatividade",
-      "Pensamento crítico"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Neurociência",
-      "Cibersegurança"
-    ]
-  },
-  {
-    "id": 9,
-    "nome": "Thiago Ribeiro",
-    "foto": "./images/homem9.jpg",
-    "cargo": "Engenheiro",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Porto Alegre/RS",
-    "area": "Educação",
-    "habilidadesTecnicas": [
-      "Docker",
-      "AWS",
-      "Python"
-    ],
-    "softSkills": [
-      "Liderança",
-      "Comunicação",
-      "Pensamento crítico"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Educação",
-      "Neurociência"
-    ]
-  },
-  {
-    "id": 10,
-    "nome": "Patrícia Costa",
-    "foto": "./images/mulher10.jpg",
-    "cargo": "Consultor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Belo Horizonte/MG",
-    "area": "Tecnologia",
-    "habilidadesTecnicas": [
-      "React",
-      "Java",
-      "AWS"
-    ],
-    "softSkills": [
       "Resiliência",
-      "Trabalho em equipe",
       "Criatividade"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa C",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
       "Sustentabilidade",
-      "Cibersegurança"
-    ]
-  },
-  {
-    "id": 11,
-    "nome": "Bruno Costa",
-    "foto": "./images/homem1.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Curitiba/PR",
-    "area": "Marketing",
-    "habilidadesTecnicas": [
-      "Docker",
-      "Java",
-      "SQL"
-    ],
-    "softSkills": [
-      "Pensamento crítico",
-      "Trabalho em equipe",
-      "Liderança"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Neurociência",
       "Finanças"
     ]
   },
   {
-    "id": 12,
-    "nome": "Beatriz Oliveira",
-    "foto": "./images/mulher2.jpg",
-    "cargo": "Desenvolvedor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Curitiba/PR",
-    "area": "Design",
-    "habilidadesTecnicas": [
-      "AWS",
-      "Figma",
-      "React"
-    ],
-    "softSkills": [
-      "Comunicação",
-      "Trabalho em equipe",
-      "Resiliência"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Educação",
-      "Neurociência"
-    ]
-  },
-  {
-    "id": 13,
-    "nome": "Rafael Ribeiro",
-    "foto": "./images/homem3.jpg",
-    "cargo": "Engenheiro",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "id": 4,
+    "nome": "Camila Pereira",
+    "foto": "https://randomuser.me/api/portraits/women/3.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
     "localizacao": "Belo Horizonte/MG",
-    "area": "Engenharia",
+    "area": "Educação",
     "habilidadesTecnicas": [
-      "Python",
+      "Node.js",
       "SQL",
-      "Node.js"
+      "AWS"
     ],
     "softSkills": [
+      "Resiliência",
       "Criatividade",
-      "Pensamento crítico",
-      "Liderança"
+      "Pensamento crítico"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa D",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
       "Finanças",
-      "Cibersegurança"
+      "Neurociência"
     ]
   },
   {
-    "id": 14,
-    "nome": "Isabela Lima",
-    "foto": "./images/mulher4.jpg",
-    "cargo": "Analista",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Rio de Janeiro/RJ",
-    "area": "Design",
+    "id": 5,
+    "nome": "Pedro Costa",
+    "foto": "https://randomuser.me/api/portraits/men/4.jpg",
+    "cargo": "Gestor de Projetos",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
     "habilidadesTecnicas": [
+      "SQL",
       "AWS",
-      "Figma",
-      "Python"
+      "Figma"
     ],
     "softSkills": [
-      "Liderança",
       "Criatividade",
+      "Pensamento crítico",
       "Comunicação"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa E",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
-      "Cibersegurança",
-      "Educação"
-    ]
-  },
-  {
-    "id": 15,
-    "nome": "Caio Ribeiro",
-    "foto": "./images/homem5.jpg",
-    "cargo": "Engenheiro",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Rio de Janeiro/RJ",
-    "area": "Design",
-    "habilidadesTecnicas": [
-      "JavaScript",
-      "React",
-      "C#"
-    ],
-    "softSkills": [
-      "Pensamento crítico",
-      "Comunicação",
-      "Resiliência"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Educação",
+      "Neurociência",
       "Cibersegurança"
     ]
   },
   {
-    "id": 16,
-    "nome": "Beatriz Martins",
-    "foto": "./images/mulher6.jpg",
-    "cargo": "Engenheiro",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Belo Horizonte/MG",
-    "area": "Tecnologia",
+    "id": 6,
+    "nome": "Larissa Lima",
+    "foto": "https://randomuser.me/api/portraits/women/5.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Salvador/BA",
+    "area": "Engenharia",
     "habilidadesTecnicas": [
-      "Docker",
-      "SQL",
+      "AWS",
+      "Figma",
       "Java"
     ],
     "softSkills": [
+      "Pensamento crítico",
       "Comunicação",
-      "Trabalho em equipe",
-      "Criatividade"
+      "Trabalho em equipe"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa A",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "IA"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Rafael Gomes",
+    "foto": "https://randomuser.me/api/portraits/men/6.jpg",
+    "cargo": "Desenvolvedor Front-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Java",
+      "C#"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa B",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Educação"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Carolina Almeida",
+    "foto": "https://randomuser.me/api/portraits/women/7.jpg",
+    "cargo": "Desenvolvedor Back-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Java",
+      "C#",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa C",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
       "Educação",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Bruno Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/men/8.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "C#",
+      "Docker",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa D",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Renata Martins",
+    "foto": "https://randomuser.me/api/portraits/women/9.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa E",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Lucas Silva",
+    "foto": "https://randomuser.me/api/portraits/men/10.jpg",
+    "cargo": "Gestor de Projetos",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Mariana Souza",
+    "foto": "https://randomuser.me/api/portraits/women/11.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Salvador/BA",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa B",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "IA"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Mateus Oliveira",
+    "foto": "https://randomuser.me/api/portraits/men/12.jpg",
+    "cargo": "Desenvolvedor Front-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa C",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Educação"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Camila Pereira",
+    "foto": "https://randomuser.me/api/portraits/women/13.jpg",
+    "cargo": "Desenvolvedor Back-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SQL",
+      "AWS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa D",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Pedro Costa",
+    "foto": "https://randomuser.me/api/portraits/men/14.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "SQL",
+      "AWS",
+      "Figma"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa E",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Larissa Lima",
+    "foto": "https://randomuser.me/api/portraits/women/15.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Figma",
+      "Java"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
       "Neurociência"
     ]
   },
   {
     "id": 17,
-    "nome": "Mateus Martins",
-    "foto": "./images/homem7.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "nome": "Rafael Gomes",
+    "foto": "https://randomuser.me/api/portraits/men/16.jpg",
+    "cargo": "Gestor de Projetos",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Java",
+      "C#"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa B",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Carolina Almeida",
+    "foto": "https://randomuser.me/api/portraits/women/17.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Salvador/BA",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Java",
+      "C#",
+      "Docker"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa C",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "IA"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Bruno Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/men/18.jpg",
+    "cargo": "Desenvolvedor Front-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "C#",
+      "Docker",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa D",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Educação"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Renata Martins",
+    "foto": "https://randomuser.me/api/portraits/women/19.jpg",
+    "cargo": "Desenvolvedor Back-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa E",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Lucas Silva",
+    "foto": "https://randomuser.me/api/portraits/men/20.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Mariana Souza",
+    "foto": "https://randomuser.me/api/portraits/women/21.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
     "localizacao": "Belo Horizonte/MG",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa B",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Mateus Oliveira",
+    "foto": "https://randomuser.me/api/portraits/men/22.jpg",
+    "cargo": "Gestor de Projetos",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa C",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Camila Pereira",
+    "foto": "https://randomuser.me/api/portraits/women/23.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Salvador/BA",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SQL",
+      "AWS"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa D",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "IA"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Pedro Costa",
+    "foto": "https://randomuser.me/api/portraits/men/24.jpg",
+    "cargo": "Desenvolvedor Front-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "SQL",
+      "AWS",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa E",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Educação"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Larissa Lima",
+    "foto": "https://randomuser.me/api/portraits/women/25.jpg",
+    "cargo": "Desenvolvedor Back-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Figma",
+      "Java"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Rafael Gomes",
+    "foto": "https://randomuser.me/api/portraits/men/26.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Curitiba/PR",
     "area": "Saúde",
     "habilidadesTecnicas": [
       "Figma",
-      "JavaScript",
+      "Java",
       "C#"
     ],
     "softSkills": [
@@ -899,1134 +1553,156 @@
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa B",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
       "Sustentabilidade",
-      "IA"
-    ]
-  },
-  {
-    "id": 18,
-    "nome": "Larissa Oliveira",
-    "foto": "./images/mulher8.jpg",
-    "cargo": "Analista",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "São Paulo/SP",
-    "area": "Design",
-    "habilidadesTecnicas": [
-      "AWS",
-      "React",
-      "Java"
-    ],
-    "softSkills": [
-      "Trabalho em equipe",
-      "Pensamento crítico",
-      "Comunicação"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Sustentabilidade",
-      "Neurociência"
-    ]
-  },
-  {
-    "id": 19,
-    "nome": "Thiago Almeida",
-    "foto": "./images/homem9.jpg",
-    "cargo": "Analista",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Curitiba/PR",
-    "area": "Saúde",
-    "habilidadesTecnicas": [
-      "JavaScript",
-      "React",
-      "Java"
-    ],
-    "softSkills": [
-      "Criatividade",
-      "Comunicação",
-      "Pensamento crítico"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Finanças",
-      "Neurociência"
-    ]
-  },
-  {
-    "id": 20,
-    "nome": "Camila Costa",
-    "foto": "./images/mulher10.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Porto Alegre/RS",
-    "area": "Educação",
-    "habilidadesTecnicas": [
-      "Figma",
-      "Docker",
-      "AWS"
-    ],
-    "softSkills": [
-      "Comunicação",
-      "Liderança",
-      "Pensamento crítico"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Sustentabilidade",
-      "Finanças"
-    ]
-  },
-  {
-    "id": 21,
-    "nome": "Caio Souza",
-    "foto": "./images/homem1.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Salvador/BA",
-    "area": "Saúde",
-    "habilidadesTecnicas": [
-      "JavaScript",
-      "Docker",
-      "AWS"
-    ],
-    "softSkills": [
-      "Comunicação",
-      "Resiliência",
-      "Pensamento crítico"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Neurociência",
-      "Sustentabilidade"
-    ]
-  },
-  {
-    "id": 22,
-    "nome": "Beatriz Silva",
-    "foto": "./images/mulher2.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "São Paulo/SP",
-    "area": "Engenharia",
-    "habilidadesTecnicas": [
-      "Node.js",
-      "JavaScript",
-      "Java"
-    ],
-    "softSkills": [
-      "Pensamento crítico",
-      "Criatividade",
-      "Liderança"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Sustentabilidade",
-      "Finanças"
-    ]
-  },
-  {
-    "id": 23,
-    "nome": "Caio Silva",
-    "foto": "./images/homem3.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Belo Horizonte/MG",
-    "area": "Tecnologia",
-    "habilidadesTecnicas": [
-      "Figma",
-      "C#",
-      "AWS"
-    ],
-    "softSkills": [
-      "Trabalho em equipe",
-      "Comunicação",
-      "Liderança"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Educação",
-      "Sustentabilidade"
-    ]
-  },
-  {
-    "id": 24,
-    "nome": "Patrícia Pereira",
-    "foto": "./images/mulher4.jpg",
-    "cargo": "Designer",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Curitiba/PR",
-    "area": "Design",
-    "habilidadesTecnicas": [
-      "Python",
-      "React",
-      "JavaScript"
-    ],
-    "softSkills": [
-      "Comunicação",
-      "Criatividade",
-      "Trabalho em equipe"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "IA",
-      "Educação"
-    ]
-  },
-  {
-    "id": 25,
-    "nome": "João Gomes",
-    "foto": "./images/homem5.jpg",
-    "cargo": "Designer",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Salvador/BA",
-    "area": "Saúde",
-    "habilidadesTecnicas": [
-      "Figma",
-      "JavaScript",
-      "React"
-    ],
-    "softSkills": [
-      "Pensamento crítico",
-      "Comunicação",
-      "Trabalho em equipe"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Sustentabilidade",
-      "IA"
-    ]
-  },
-  {
-    "id": 26,
-    "nome": "Beatriz Oliveira",
-    "foto": "./images/mulher6.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Rio de Janeiro/RJ",
-    "area": "Tecnologia",
-    "habilidadesTecnicas": [
-      "Node.js",
-      "JavaScript",
-      "Python"
-    ],
-    "softSkills": [
-      "Criatividade",
-      "Liderança",
-      "Resiliência"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Finanças",
-      "Neurociência"
-    ]
-  },
-  {
-    "id": 27,
-    "nome": "Caio Oliveira",
-    "foto": "./images/homem7.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Curitiba/PR",
-    "area": "Educação",
-    "habilidadesTecnicas": [
-      "Java",
-      "Figma",
-      "JavaScript"
-    ],
-    "softSkills": [
-      "Pensamento crítico",
-      "Criatividade",
-      "Comunicação"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Neurociência",
       "Finanças"
     ]
   },
   {
     "id": 28,
-    "nome": "Camila Almeida",
-    "foto": "./images/mulher8.jpg",
-    "cargo": "Consultor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "nome": "Carolina Almeida",
+    "foto": "https://randomuser.me/api/portraits/women/27.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
     "localizacao": "Belo Horizonte/MG",
-    "area": "Engenharia",
-    "habilidadesTecnicas": [
-      "Docker",
-      "React",
-      "Node.js"
-    ],
-    "softSkills": [
-      "Resiliência",
-      "Trabalho em equipe",
-      "Comunicação"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Cibersegurança",
-      "Finanças"
-    ]
-  },
-  {
-    "id": 29,
-    "nome": "Bruno Oliveira",
-    "foto": "./images/homem9.jpg",
-    "cargo": "Engenheiro",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Curitiba/PR",
-    "area": "Saúde",
-    "habilidadesTecnicas": [
-      "Python",
-      "JavaScript",
-      "Node.js"
-    ],
-    "softSkills": [
-      "Liderança",
-      "Criatividade",
-      "Comunicação"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Educação",
-      "Neurociência"
-    ]
-  },
-  {
-    "id": 30,
-    "nome": "Renata Oliveira",
-    "foto": "./images/mulher10.jpg",
-    "cargo": "Designer",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Curitiba/PR",
-    "area": "Educação",
-    "habilidadesTecnicas": [
-      "Python",
-      "Node.js",
-      "Figma"
-    ],
-    "softSkills": [
-      "Liderança",
-      "Trabalho em equipe",
-      "Resiliência"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Finanças",
-      "Sustentabilidade"
-    ]
-  },
-  {
-    "id": 31,
-    "nome": "Pedro Ribeiro",
-    "foto": "./images/homem1.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Curitiba/PR",
     "area": "Educação",
     "habilidadesTecnicas": [
       "Java",
-      "Node.js",
-      "AWS"
-    ],
-    "softSkills": [
-      "Pensamento crítico",
-      "Comunicação",
-      "Liderança"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "IA",
-      "Neurociência"
-    ]
-  },
-  {
-    "id": 32,
-    "nome": "Beatriz Martins",
-    "foto": "./images/mulher2.jpg",
-    "cargo": "Engenheiro",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Salvador/BA",
-    "area": "Tecnologia",
-    "habilidadesTecnicas": [
-      "SQL",
-      "React",
-      "Node.js"
-    ],
-    "softSkills": [
-      "Liderança",
-      "Criatividade",
-      "Trabalho em equipe"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "IA",
-      "Finanças"
-    ]
-  },
-  {
-    "id": 33,
-    "nome": "Lucas Lima",
-    "foto": "./images/homem3.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Rio de Janeiro/RJ",
-    "area": "Tecnologia",
-    "habilidadesTecnicas": [
-      "React",
-      "Docker",
-      "Python"
-    ],
-    "softSkills": [
-      "Pensamento crítico",
-      "Resiliência",
-      "Trabalho em equipe"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Finanças",
-      "IA"
-    ]
-  },
-  {
-    "id": 34,
-    "nome": "Patrícia Souza",
-    "foto": "./images/mulher4.jpg",
-    "cargo": "Consultor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Rio de Janeiro/RJ",
-    "area": "Engenharia",
-    "habilidadesTecnicas": [
-      "Figma",
-      "Java",
-      "JavaScript"
+      "C#",
+      "Docker"
     ],
     "softSkills": [
       "Resiliência",
-      "Liderança",
-      "Comunicação"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Finanças",
-      "Educação"
-    ]
-  },
-  {
-    "id": 35,
-    "nome": "Thiago Gomes",
-    "foto": "./images/homem5.jpg",
-    "cargo": "Designer",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Belo Horizonte/MG",
-    "area": "Saúde",
-    "habilidadesTecnicas": [
-      "Python",
-      "React",
-      "Node.js"
-    ],
-    "softSkills": [
       "Criatividade",
-      "Trabalho em equipe",
       "Pensamento crítico"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa C",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
       "Finanças",
-      "IA"
+      "Neurociência"
     ]
   },
   {
-    "id": 36,
-    "nome": "Carolina Almeida",
-    "foto": "./images/mulher6.jpg",
-    "cargo": "Engenheiro",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Belo Horizonte/MG",
-    "area": "Saúde",
-    "habilidadesTecnicas": [
-      "Python",
-      "AWS",
-      "JavaScript"
-    ],
-    "softSkills": [
-      "Pensamento crítico",
-      "Trabalho em equipe",
-      "Liderança"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Finanças",
-      "IA"
-    ]
-  },
-  {
-    "id": 37,
-    "nome": "Felipe Lima",
-    "foto": "./images/homem7.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "id": 29,
+    "nome": "Bruno Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/men/28.jpg",
+    "cargo": "Gestor de Projetos",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
     "localizacao": "Porto Alegre/RS",
-    "area": "Engenharia",
+    "area": "Marketing",
     "habilidadesTecnicas": [
-      "SQL",
-      "AWS",
-      "Node.js"
+      "C#",
+      "Docker",
+      "Python"
     ],
     "softSkills": [
-      "Liderança",
-      "Trabalho em equipe",
-      "Resiliência"
+      "Criatividade",
+      "Pensamento crítico",
+      "Comunicação"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa D",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
@@ -2035,218 +1711,706 @@
     ]
   },
   {
-    "id": 38,
-    "nome": "Patrícia Martins",
-    "foto": "./images/mulher8.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "id": 30,
+    "nome": "Renata Martins",
+    "foto": "https://randomuser.me/api/portraits/women/29.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Salvador/BA",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa E",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "IA"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Lucas Silva",
+    "foto": "https://randomuser.me/api/portraits/men/30.jpg",
+    "cargo": "Desenvolvedor Front-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
     "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Educação"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Mariana Souza",
+    "foto": "https://randomuser.me/api/portraits/women/31.jpg",
+    "cargo": "Desenvolvedor Back-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Rio de Janeiro/RJ",
     "area": "Design",
     "habilidadesTecnicas": [
-      "AWS",
-      "C#",
+      "JavaScript",
+      "React",
       "Node.js"
     ],
     "softSkills": [
+      "Trabalho em equipe",
       "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa B",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Mateus Oliveira",
+    "foto": "https://randomuser.me/api/portraits/men/32.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa C",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Camila Pereira",
+    "foto": "https://randomuser.me/api/portraits/women/33.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SQL",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
       "Criatividade",
       "Pensamento crítico"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa D",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
-      "Cibersegurança",
-      "Finanças"
-    ]
-  },
-  {
-    "id": 39,
-    "nome": "Gabriel Martins",
-    "foto": "./images/homem9.jpg",
-    "cargo": "Consultor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "São Paulo/SP",
-    "area": "Design",
-    "habilidadesTecnicas": [
-      "Figma",
-      "JavaScript",
-      "AWS"
-    ],
-    "softSkills": [
-      "Trabalho em equipe",
-      "Comunicação",
-      "Resiliência"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "IA",
+      "Finanças",
       "Neurociência"
     ]
   },
   {
-    "id": 40,
-    "nome": "Beatriz Silva",
-    "foto": "./images/mulher10.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Salvador/BA",
-    "area": "Tecnologia",
+    "id": 35,
+    "nome": "Pedro Costa",
+    "foto": "https://randomuser.me/api/portraits/men/34.jpg",
+    "cargo": "Gestor de Projetos",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
     "habilidadesTecnicas": [
-      "Java",
-      "C#",
-      "AWS"
+      "SQL",
+      "AWS",
+      "Figma"
     ],
     "softSkills": [
-      "Comunicação",
       "Criatividade",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa E",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Larissa Lima",
+    "foto": "https://randomuser.me/api/portraits/women/35.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Salvador/BA",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Figma",
+      "Java"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
       "Trabalho em equipe"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa A",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
       "Cibersegurança",
-      "Sustentabilidade"
+      "IA"
     ]
   },
   {
-    "id": 41,
-    "nome": "Thiago Martins",
-    "foto": "./images/homem1.jpg",
-    "cargo": "Designer",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "id": 37,
+    "nome": "Rafael Gomes",
+    "foto": "https://randomuser.me/api/portraits/men/36.jpg",
+    "cargo": "Desenvolvedor Front-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
     "localizacao": "São Paulo/SP",
-    "area": "Saúde",
+    "area": "Tecnologia",
     "habilidadesTecnicas": [
-      "Docker",
-      "Node.js",
-      "Python"
+      "Figma",
+      "Java",
+      "C#"
     ],
     "softSkills": [
-      "Pensamento crítico",
-      "Resiliência",
+      "Comunicação",
+      "Trabalho em equipe",
       "Liderança"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa B",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Educação"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Carolina Almeida",
+    "foto": "https://randomuser.me/api/portraits/women/37.jpg",
+    "cargo": "Desenvolvedor Back-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Java",
+      "C#",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa C",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Bruno Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/men/38.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "C#",
+      "Docker",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa D",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Renata Martins",
+    "foto": "https://randomuser.me/api/portraits/women/39.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa E",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Lucas Silva",
+    "foto": "https://randomuser.me/api/portraits/men/40.jpg",
+    "cargo": "Gestor de Projetos",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
@@ -2256,1047 +2420,1123 @@
   },
   {
     "id": 42,
-    "nome": "Camila Costa",
-    "foto": "./images/mulher2.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Belo Horizonte/MG",
-    "area": "Marketing",
+    "nome": "Mariana Souza",
+    "foto": "https://randomuser.me/api/portraits/women/41.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Salvador/BA",
+    "area": "Engenharia",
     "habilidadesTecnicas": [
-      "C#",
-      "Python",
-      "Java"
-    ],
-    "softSkills": [
-      "Liderança",
-      "Criatividade",
-      "Pensamento crítico"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "IA",
-      "Finanças"
-    ]
-  },
-  {
-    "id": 43,
-    "nome": "Bruno Almeida",
-    "foto": "./images/homem3.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Porto Alegre/RS",
-    "area": "Marketing",
-    "habilidadesTecnicas": [
-      "Python",
       "JavaScript",
-      "Java"
+      "React",
+      "Node.js"
     ],
     "softSkills": [
-      "Liderança",
-      "Resiliência",
+      "Pensamento crítico",
+      "Comunicação",
       "Trabalho em equipe"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa B",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
       "Cibersegurança",
+      "IA"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Mateus Oliveira",
+    "foto": "https://randomuser.me/api/portraits/men/42.jpg",
+    "cargo": "Desenvolvedor Front-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa C",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
       "Educação"
     ]
   },
   {
     "id": 44,
-    "nome": "Carolina Lima",
-    "foto": "./images/mulher4.jpg",
-    "cargo": "Designer",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Porto Alegre/RS",
-    "area": "Educação",
+    "nome": "Camila Pereira",
+    "foto": "https://randomuser.me/api/portraits/women/43.jpg",
+    "cargo": "Desenvolvedor Back-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
     "habilidadesTecnicas": [
-      "AWS",
-      "JavaScript",
-      "Java"
+      "Node.js",
+      "SQL",
+      "AWS"
     ],
     "softSkills": [
-      "Comunicação",
+      "Trabalho em equipe",
       "Liderança",
-      "Criatividade"
+      "Resiliência"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa D",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
-      "IA",
+      "Educação",
       "Sustentabilidade"
     ]
   },
   {
     "id": 45,
-    "nome": "Lucas Ribeiro",
-    "foto": "./images/homem5.jpg",
-    "cargo": "Desenvolvedor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Porto Alegre/RS",
-    "area": "Marketing",
+    "nome": "Pedro Costa",
+    "foto": "https://randomuser.me/api/portraits/men/44.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
     "habilidadesTecnicas": [
-      "Node.js",
-      "Figma",
-      "AWS"
+      "SQL",
+      "AWS",
+      "Figma"
     ],
     "softSkills": [
       "Liderança",
-      "Pensamento crítico",
+      "Resiliência",
       "Criatividade"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa E",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
-      "Neurociência",
-      "IA"
+      "Sustentabilidade",
+      "Finanças"
     ]
   },
   {
     "id": 46,
-    "nome": "Renata Pereira",
-    "foto": "./images/mulher6.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Porto Alegre/RS",
-    "area": "Saúde",
+    "nome": "Larissa Lima",
+    "foto": "https://randomuser.me/api/portraits/women/45.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Educação",
     "habilidadesTecnicas": [
-      "Docker",
-      "React",
-      "SQL"
+      "AWS",
+      "Figma",
+      "Java"
     ],
     "softSkills": [
       "Resiliência",
-      "Trabalho em equipe",
+      "Criatividade",
       "Pensamento crítico"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa A",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
-      "Sustentabilidade",
-      "Finanças"
-    ]
-  },
-  {
-    "id": 47,
-    "nome": "Bruno Martins",
-    "foto": "./images/homem7.jpg",
-    "cargo": "Designer",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Porto Alegre/RS",
-    "area": "Engenharia",
-    "habilidadesTecnicas": [
-      "Java",
-      "SQL",
-      "React"
-    ],
-    "softSkills": [
-      "Comunicação",
-      "Criatividade",
-      "Liderança"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Neurociência",
-      "Finanças"
-    ]
-  },
-  {
-    "id": 48,
-    "nome": "Camila Oliveira",
-    "foto": "./images/mulher8.jpg",
-    "cargo": "Designer",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Belo Horizonte/MG",
-    "area": "Saúde",
-    "habilidadesTecnicas": [
-      "JavaScript",
-      "React",
-      "SQL"
-    ],
-    "softSkills": [
-      "Resiliência",
-      "Comunicação",
-      "Liderança"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "IA",
+      "Finanças",
       "Neurociência"
     ]
   },
   {
-    "id": 49,
-    "nome": "Gabriel Pereira",
-    "foto": "./images/homem9.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Rio de Janeiro/RJ",
-    "area": "Tecnologia",
+    "id": 47,
+    "nome": "Rafael Gomes",
+    "foto": "https://randomuser.me/api/portraits/men/46.jpg",
+    "cargo": "Gestor de Projetos",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
     "habilidadesTecnicas": [
-      "Docker",
-      "Node.js",
-      "Java"
+      "Figma",
+      "Java",
+      "C#"
     ],
     "softSkills": [
-      "Trabalho em equipe",
-      "Liderança",
+      "Criatividade",
+      "Pensamento crítico",
       "Comunicação"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa B",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
-      "Sustentabilidade",
+      "Neurociência",
       "Cibersegurança"
     ]
   },
   {
-    "id": 50,
-    "nome": "Isabela Costa",
-    "foto": "./images/mulher10.jpg",
-    "cargo": "Consultor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Belo Horizonte/MG",
-    "area": "Tecnologia",
+    "id": 48,
+    "nome": "Carolina Almeida",
+    "foto": "https://randomuser.me/api/portraits/women/47.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Salvador/BA",
+    "area": "Engenharia",
     "habilidadesTecnicas": [
-      "Node.js",
-      "Python",
+      "Java",
+      "C#",
       "Docker"
     ],
     "softSkills": [
       "Pensamento crítico",
       "Comunicação",
-      "Resiliência"
+      "Trabalho em equipe"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa C",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
-      "Neurociência",
+      "Cibersegurança",
       "IA"
     ]
   },
   {
-    "id": 51,
-    "nome": "Thiago Ribeiro",
-    "foto": "./images/homem1.jpg",
-    "cargo": "Desenvolvedor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Rio de Janeiro/RJ",
+    "id": 49,
+    "nome": "Bruno Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/men/48.jpg",
+    "cargo": "Desenvolvedor Front-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "São Paulo/SP",
     "area": "Tecnologia",
     "habilidadesTecnicas": [
-      "Python",
-      "Figma",
-      "SQL"
+      "C#",
+      "Docker",
+      "Python"
     ],
     "softSkills": [
-      "Pensamento crítico",
+      "Comunicação",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa D",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Educação"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Renata Martins",
+    "foto": "https://randomuser.me/api/portraits/women/49.jpg",
+    "cargo": "Desenvolvedor Back-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
       "Liderança",
       "Resiliência"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa E",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
-      "Neurociência",
+      "Educação",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Lucas Silva",
+    "foto": "https://randomuser.me/api/portraits/men/50.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
       "Finanças"
     ]
   },
   {
     "id": 52,
-    "nome": "Carolina Silva",
-    "foto": "./images/mulher2.jpg",
-    "cargo": "Desenvolvedor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "nome": "Mariana Souza",
+    "foto": "https://randomuser.me/api/portraits/women/51.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
     "localizacao": "Belo Horizonte/MG",
-    "area": "Engenharia",
+    "area": "Educação",
     "habilidadesTecnicas": [
-      "Node.js",
-      "AWS",
-      "Java"
+      "JavaScript",
+      "React",
+      "Node.js"
     ],
     "softSkills": [
-      "Criatividade",
       "Resiliência",
-      "Comunicação"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Cibersegurança",
-      "Educação"
-    ]
-  },
-  {
-    "id": 53,
-    "nome": "Bruno Pereira",
-    "foto": "./images/homem3.jpg",
-    "cargo": "Analista",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Belo Horizonte/MG",
-    "area": "Saúde",
-    "habilidadesTecnicas": [
-      "SQL",
-      "Python",
-      "Java"
-    ],
-    "softSkills": [
-      "Pensamento crítico",
       "Criatividade",
-      "Liderança"
+      "Pensamento crítico"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa B",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
       "Finanças",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Mateus Oliveira",
+    "foto": "https://randomuser.me/api/portraits/men/52.jpg",
+    "cargo": "Gestor de Projetos",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa C",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
       "Cibersegurança"
     ]
   },
   {
     "id": 54,
-    "nome": "Renata Silva",
-    "foto": "./images/mulher4.jpg",
-    "cargo": "Gestor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "São Paulo/SP",
-    "area": "Educação",
+    "nome": "Camila Pereira",
+    "foto": "https://randomuser.me/api/portraits/women/53.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Salvador/BA",
+    "area": "Engenharia",
     "habilidadesTecnicas": [
+      "Node.js",
       "SQL",
-      "JavaScript",
-      "Figma"
+      "AWS"
     ],
     "softSkills": [
+      "Pensamento crítico",
       "Comunicação",
-      "Criatividade",
       "Trabalho em equipe"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa D",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
-      "Finanças",
-      "Cibersegurança"
+      "Cibersegurança",
+      "IA"
     ]
   },
   {
     "id": 55,
-    "nome": "Gabriel Gomes",
-    "foto": "./images/homem5.jpg",
-    "cargo": "Consultor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Belo Horizonte/MG",
-    "area": "Educação",
+    "nome": "Pedro Costa",
+    "foto": "https://randomuser.me/api/portraits/men/54.jpg",
+    "cargo": "Desenvolvedor Front-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
     "habilidadesTecnicas": [
-      "Python",
-      "React",
-      "Docker"
+      "SQL",
+      "AWS",
+      "Figma"
     ],
     "softSkills": [
+      "Comunicação",
       "Trabalho em equipe",
-      "Liderança",
-      "Comunicação"
+      "Liderança"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa E",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
-      "Finanças",
+      "IA",
       "Educação"
     ]
   },
   {
     "id": 56,
-    "nome": "Mariana Oliveira",
-    "foto": "./images/mulher6.jpg",
-    "cargo": "Consultor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Salvador/BA",
-    "area": "Marketing",
+    "nome": "Larissa Lima",
+    "foto": "https://randomuser.me/api/portraits/women/55.jpg",
+    "cargo": "Desenvolvedor Back-end",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
     "habilidadesTecnicas": [
-      "React",
-      "C#",
-      "JavaScript"
+      "AWS",
+      "Figma",
+      "Java"
     ],
     "softSkills": [
-      "Liderança",
       "Trabalho em equipe",
-      "Criatividade"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Sustentabilidade",
-      "Neurociência"
-    ]
-  },
-  {
-    "id": 57,
-    "nome": "Rafael Lima",
-    "foto": "./images/homem7.jpg",
-    "cargo": "Designer",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "São Paulo/SP",
-    "area": "Engenharia",
-    "habilidadesTecnicas": [
-      "Node.js",
-      "SQL",
-      "C#"
-    ],
-    "softSkills": [
-      "Comunicação",
-      "Pensamento crítico",
-      "Trabalho em equipe"
-    ],
-    "experiencias": [
-      {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
-        "inicio": "2021-01",
-        "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
-      }
-    ],
-    "formacao": [
-      {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
-      }
-    ],
-    "projetos": [
-      {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
-      }
-    ],
-    "certificacoes": [
-      "Certificação Profissional XYZ"
-    ],
-    "idiomas": [
-      {
-        "idioma": "Inglês",
-        "nivel": "Avançado"
-      }
-    ],
-    "areaInteresses": [
-      "Sustentabilidade",
-      "Educação"
-    ]
-  },
-  {
-    "id": 58,
-    "nome": "Camila Pereira",
-    "foto": "./images/mulher8.jpg",
-    "cargo": "Consultor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Salvador/BA",
-    "area": "Engenharia",
-    "habilidadesTecnicas": [
-      "Python",
-      "React",
-      "AWS"
-    ],
-    "softSkills": [
-      "Criatividade",
       "Liderança",
-      "Pensamento crítico"
+      "Resiliência"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa A",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
-      "Cibersegurança",
+      "Educação",
       "Sustentabilidade"
     ]
   },
   {
-    "id": 59,
-    "nome": "Mateus Costa",
-    "foto": "./images/homem9.jpg",
-    "cargo": "Consultor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
-    "localizacao": "Belo Horizonte/MG",
-    "area": "Engenharia",
+    "id": 57,
+    "nome": "Rafael Gomes",
+    "foto": "https://randomuser.me/api/portraits/men/56.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
     "habilidadesTecnicas": [
       "Figma",
-      "JavaScript",
-      "AWS"
+      "Java",
+      "C#"
     ],
     "softSkills": [
+      "Liderança",
       "Resiliência",
-      "Pensamento crítico",
-      "Trabalho em equipe"
+      "Criatividade"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa B",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
-      "Cibersegurança",
+      "Sustentabilidade",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Carolina Almeida",
+    "foto": "https://randomuser.me/api/portraits/women/57.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Java",
+      "C#",
+      "Docker"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa C",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
       "Neurociência"
     ]
   },
   {
-    "id": 60,
-    "nome": "Julia Oliveira",
-    "foto": "./images/mulher10.jpg",
-    "cargo": "Consultor",
-    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "id": 59,
+    "nome": "Bruno Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/men/58.jpg",
+    "cargo": "Gestor de Projetos",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
     "localizacao": "Porto Alegre/RS",
-    "area": "Educação",
+    "area": "Marketing",
     "habilidadesTecnicas": [
-      "Python",
+      "C#",
       "Docker",
-      "AWS"
+      "Python"
     ],
     "softSkills": [
-      "Liderança",
       "Criatividade",
-      "Trabalho em equipe"
+      "Pensamento crítico",
+      "Comunicação"
     ],
     "experiencias": [
       {
-        "empresa": "Empresa X",
-        "cargo": "Analista",
+        "empresa": "Empresa D",
+        "cargo": "Analista Pleno",
         "inicio": "2021-01",
         "fim": "2023-06",
-        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
       }
     ],
     "formacao": [
       {
-        "curso": "Bacharel em Tecnologia",
-        "instituicao": "FIAP",
-        "ano": 2022
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
       }
     ],
     "projetos": [
       {
-        "titulo": "Projeto Inovador",
-        "link": "https://example.com",
-        "descricao": "Solução moderna voltada ao futuro do trabalho."
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
       }
     ],
     "certificacoes": [
-      "Certificação Profissional XYZ"
+      "Certificação em Metodologias Ágeis"
     ],
     "idiomas": [
       {
         "idioma": "Inglês",
         "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
       }
     ],
     "areaInteresses": [
       "Neurociência",
-      "Finanças"
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Renata Martins",
+    "foto": "https://randomuser.me/api/portraits/women/59.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional focado no futuro do trabalho, aprendizado contínuo e colaboração em ambientes digitais.",
+    "localizacao": "Salvador/BA",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa E",
+        "cargo": "Analista Pleno",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos multidisciplinares conectando pessoas, dados e tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Administração",
+        "instituicao": "Universidade Presbiteriana Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa de Talentos",
+        "link": "https://example.com/projeto-talentos",
+        "descricao": "Projeto que integra profissionais de diferentes áreas para resolver desafios reais do mercado."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "IA"
     ]
   }
 ]
