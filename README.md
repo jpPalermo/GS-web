@@ -64,3 +64,31 @@ Backend disponível em:
 
 ---
 
+### **3. Instalar o Frontend**
+
+```bash
+cd frontend
+npm install
+```
+
+Rodar o frontend:
+
+```bash
+npm run dev
+```
+
+Frontend disponível em:  
+**http://localhost:5173**
+
+---
+
+## 🔗 Link do Repositório
+
+Substituir pelo link correto:
+
+```
+https://github.com/usuario/repositorio
+```
+
+---
+
