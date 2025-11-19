@@ -29,3 +29,38 @@ Os perfis são carregados via API usando um arquivo `profiles.json` armazenado n
 
 ---
 
+## 🔐 Usuários e Senhas
+
+Este projeto **não utiliza sistema de login**.  
+Nenhum usuário ou senha é necessário.
+
+---
+
+## 🛠️ Instalação do Projeto (Passo a Passo)
+
+### **1. Clonar o Repositório**
+
+```bash
+git clone <link-do-repositorio>
+```
+
+---
+
+### **2. Instalar o Backend**
+
+```bash
+cd backend
+npm install
+```
+
+Rodar o backend:
+
+```bash
+npm start
+```
+
+Backend disponível em:  
+**http://localhost:3001**
+
+---
+
