@@ -1,0 +1,3302 @@
+[
+  {
+    "id": 1,
+    "nome": "Felipe Oliveira",
+    "foto": "./images/homem1.jpg",
+    "cargo": "Consultor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Salvador/BA",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "SQL",
+      "React",
+      "Docker"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Patrícia Silva",
+    "foto": "./images/mulher2.jpg",
+    "cargo": "Engenheiro",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Mateus Almeida",
+    "foto": "./images/homem3.jpg",
+    "cargo": "Analista",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Python",
+      "Figma",
+      "SQL"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Mariana Martins",
+    "foto": "./images/mulher4.jpg",
+    "cargo": "Engenheiro",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Java",
+      "Python",
+      "Docker"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "IA"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Mateus Martins",
+    "foto": "./images/homem5.jpg",
+    "cargo": "Designer",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Salvador/BA",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "React",
+      "Java",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Beatriz Silva",
+    "foto": "./images/mulher6.jpg",
+    "cargo": "Designer",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Node.js",
+      "Python"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Criatividade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Gabriel Ribeiro",
+    "foto": "./images/homem7.jpg",
+    "cargo": "Desenvolvedor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "Docker"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Mariana Lima",
+    "foto": "./images/mulher8.jpg",
+    "cargo": "Designer",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Python",
+      "Figma"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Thiago Ribeiro",
+    "foto": "./images/homem9.jpg",
+    "cargo": "Engenheiro",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Docker",
+      "AWS",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Patrícia Costa",
+    "foto": "./images/mulher10.jpg",
+    "cargo": "Consultor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "Java",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Bruno Costa",
+    "foto": "./images/homem1.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Java",
+      "SQL"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Beatriz Oliveira",
+    "foto": "./images/mulher2.jpg",
+    "cargo": "Desenvolvedor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Figma",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Rafael Ribeiro",
+    "foto": "./images/homem3.jpg",
+    "cargo": "Engenheiro",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Isabela Lima",
+    "foto": "./images/mulher4.jpg",
+    "cargo": "Analista",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Figma",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "Educação"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Caio Ribeiro",
+    "foto": "./images/homem5.jpg",
+    "cargo": "Engenheiro",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "C#"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Beatriz Martins",
+    "foto": "./images/mulher6.jpg",
+    "cargo": "Engenheiro",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Docker",
+      "SQL",
+      "Java"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Mateus Martins",
+    "foto": "./images/homem7.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Figma",
+      "JavaScript",
+      "C#"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Larissa Oliveira",
+    "foto": "./images/mulher8.jpg",
+    "cargo": "Analista",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "React",
+      "Java"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Thiago Almeida",
+    "foto": "./images/homem9.jpg",
+    "cargo": "Analista",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "Java"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Camila Costa",
+    "foto": "./images/mulher10.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Caio Souza",
+    "foto": "./images/homem1.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Salvador/BA",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Beatriz Silva",
+    "foto": "./images/mulher2.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "JavaScript",
+      "Java"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Criatividade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Caio Silva",
+    "foto": "./images/homem3.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Figma",
+      "C#",
+      "AWS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Patrícia Pereira",
+    "foto": "./images/mulher4.jpg",
+    "cargo": "Designer",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Python",
+      "React",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Educação"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "João Gomes",
+    "foto": "./images/homem5.jpg",
+    "cargo": "Designer",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Salvador/BA",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Figma",
+      "JavaScript",
+      "React"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Beatriz Oliveira",
+    "foto": "./images/mulher6.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "JavaScript",
+      "Python"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Caio Oliveira",
+    "foto": "./images/homem7.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Java",
+      "Figma",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Camila Almeida",
+    "foto": "./images/mulher8.jpg",
+    "cargo": "Consultor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Docker",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Bruno Oliveira",
+    "foto": "./images/homem9.jpg",
+    "cargo": "Engenheiro",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Renata Oliveira",
+    "foto": "./images/mulher10.jpg",
+    "cargo": "Designer",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Python",
+      "Node.js",
+      "Figma"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Pedro Ribeiro",
+    "foto": "./images/homem1.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Java",
+      "Node.js",
+      "AWS"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Beatriz Martins",
+    "foto": "./images/mulher2.jpg",
+    "cargo": "Engenheiro",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Salvador/BA",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "SQL",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Lucas Lima",
+    "foto": "./images/homem3.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "Docker",
+      "Python"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "IA"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Patrícia Souza",
+    "foto": "./images/mulher4.jpg",
+    "cargo": "Consultor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Java",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Educação"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Thiago Gomes",
+    "foto": "./images/homem5.jpg",
+    "cargo": "Designer",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "IA"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Carolina Almeida",
+    "foto": "./images/mulher6.jpg",
+    "cargo": "Engenheiro",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Python",
+      "AWS",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "IA"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Felipe Lima",
+    "foto": "./images/homem7.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "SQL",
+      "AWS",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Patrícia Martins",
+    "foto": "./images/mulher8.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "C#",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Gabriel Martins",
+    "foto": "./images/homem9.jpg",
+    "cargo": "Consultor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "JavaScript",
+      "AWS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Beatriz Silva",
+    "foto": "./images/mulher10.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Salvador/BA",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Java",
+      "C#",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Thiago Martins",
+    "foto": "./images/homem1.jpg",
+    "cargo": "Designer",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Node.js",
+      "Python"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Camila Costa",
+    "foto": "./images/mulher2.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "C#",
+      "Python",
+      "Java"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Bruno Almeida",
+    "foto": "./images/homem3.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "Java"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "Educação"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Carolina Lima",
+    "foto": "./images/mulher4.jpg",
+    "cargo": "Designer",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "AWS",
+      "JavaScript",
+      "Java"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Lucas Ribeiro",
+    "foto": "./images/homem5.jpg",
+    "cargo": "Desenvolvedor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Figma",
+      "AWS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Pensamento crítico",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "IA"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Renata Pereira",
+    "foto": "./images/mulher6.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Docker",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Bruno Martins",
+    "foto": "./images/homem7.jpg",
+    "cargo": "Designer",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Java",
+      "SQL",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Camila Oliveira",
+    "foto": "./images/mulher8.jpg",
+    "cargo": "Designer",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Gabriel Pereira",
+    "foto": "./images/homem9.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Node.js",
+      "Java"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Isabela Costa",
+    "foto": "./images/mulher10.jpg",
+    "cargo": "Consultor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Python",
+      "Docker"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "IA"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Thiago Ribeiro",
+    "foto": "./images/homem1.jpg",
+    "cargo": "Desenvolvedor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Python",
+      "Figma",
+      "SQL"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "Finanças"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Carolina Silva",
+    "foto": "./images/mulher2.jpg",
+    "cargo": "Desenvolvedor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "AWS",
+      "Java"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "Educação"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Bruno Pereira",
+    "foto": "./images/homem3.jpg",
+    "cargo": "Analista",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Python",
+      "Java"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Criatividade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Renata Silva",
+    "foto": "./images/mulher4.jpg",
+    "cargo": "Gestor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "SQL",
+      "JavaScript",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Gabriel Gomes",
+    "foto": "./images/homem5.jpg",
+    "cargo": "Consultor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Python",
+      "React",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças",
+      "Educação"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Mariana Oliveira",
+    "foto": "./images/mulher6.jpg",
+    "cargo": "Consultor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Salvador/BA",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "React",
+      "C#",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Rafael Lima",
+    "foto": "./images/homem7.jpg",
+    "cargo": "Designer",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SQL",
+      "C#"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Educação"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Camila Pereira",
+    "foto": "./images/mulher8.jpg",
+    "cargo": "Consultor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Salvador/BA",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Python",
+      "React",
+      "AWS"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Mateus Costa",
+    "foto": "./images/homem9.jpg",
+    "cargo": "Consultor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Engenharia",
+    "habilidadesTecnicas": [
+      "Figma",
+      "JavaScript",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento crítico",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "Neurociência"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Julia Oliveira",
+    "foto": "./images/mulher10.jpg",
+    "cargo": "Consultor",
+    "resumo": "Profissional dedicado ao futuro do trabalho e inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Python",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2021-01",
+        "fim": "2023-06",
+        "descricao": "Atuação em projetos colaborativos e tecnológicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharel em Tecnologia",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovador",
+        "link": "https://example.com",
+        "descricao": "Solução moderna voltada ao futuro do trabalho."
+      }
+    ],
+    "certificacoes": [
+      "Certificação Profissional XYZ"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Neurociência",
+      "Finanças"
+    ]
+  }
+]
