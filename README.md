@@ -3,6 +3,9 @@
 ## Plataforma Profissional Interativa
 
 ---
+Link do repositório: https://github.com/jpPalermo/GS-web.git
+
+João Pedro Ribeiro Palermo RM:562077
 
 ## 📝 Resumo do Projeto
 
